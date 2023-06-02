@@ -51,20 +51,6 @@ a {
 hr {
   border: solid #d0cccc 1px;
 }
-#frame {
-  display: inline-block;
-  position: relative;
-}
-#loading {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  padding: 0;
-  margin: 0;
-  background-color: #212441;
-  color: #fff;
-}
 #info {
   display: -moz-inline-stack;
   display: inline-block;
@@ -91,7 +77,6 @@ hr {
 </head>
 <body>
 <h1>WebAudioFont</h1>
-<div id="frame">
 <select size="10" id="menu" onchange="menu(this)">
 <optgroup midi="0" label="Acoustic Grand Piano: Piano">
   <option value="_tone_0000_Aspirin_sf2_file">0000_Aspirin_sf2_file.js</option>
@@ -5670,9 +5655,8 @@ hr {
   <option value="_drum_81_9_JCLive_sf2_file">12881_9_JCLive_sf2_file.js</option>
 </optgroup>
 </select>
-  <div id="loading">
-    <p>Loading...</p>
-  </div>
+<div id="loading">
+  <p>Loading...</p>
 </div>
 <div>
   <div id="info">
@@ -5825,9 +5809,11 @@ loading(false);
 function loading(show) {
     var div_loading = document.getElementById("loading");
     if (show) {
+        document.getElementById("menu").disabled = true;
         div_loading.style.visibility = "visible";
         div_loading.style.display    = "inline";
     } else {
+        document.getElementById("menu").disabled = false;
         div_loading.style.visibility = "hidden";
         div_loading.style.display    = "none";
     }
