@@ -21,7 +21,7 @@
 * [Audio Recording Demo With WebAudioRecorder.js.](https://addpipe.com/simple-web-audio-recorder-demo)
 * [SVG Edit](https://svgedit.netlify.app/editor/index.html)
 * [Playground AI](https://playgroundai.com)
-* [WebAudioFont](https://surikov.github.io/webaudiofont)
+* [WebAudioFont](https://leandro-sciola.github.io/demo/web-audio-font/)
 * [Youtube-dl-web](https://youtube-dl-web.vercel.app)
 * [Youtube - Get JSON file](https://youtube-dl-web.vercel.app/api/info?q=https://www.youtube.com/watch?v=xxxxxxxxxx)
 * [Web Radio](https://iamradio.radioca.st/stream/1/)
