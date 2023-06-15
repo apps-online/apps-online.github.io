@@ -1,0 +1,122 @@
+<div class="my-5">
+  <h1 class="fs-3">Functions</h1>
+  <hr>
+  <a class="btn btn-primary border-0 shadow fs-5" href="javascript:history.back()">
+    <i class="fa fa-arrow-left" aria-hidden="true"></i>
+  </a>
+  <a class="btn btn-primary border-0 shadow fs-5" href="/doc">
+    <i class="fa fa-home" aria-hidden="true"></i>
+  </a>
+</div>
+
+<pre class="text-start">
+Check if the plugin exists.
+<code class="language-twig">
+{{ plugin('name') }}
+
+Example: {{ plugin('@sciola/auth') ? 'Exists!' : 'Does not exist!' }}
+
+</code>
+</pre>
+
+<pre class="text-start">
+Message box
+<code class="language-twig">
+{{ box('Text...', 'Background color', 'Close button', 'CSS classes') }}
+
+{#
+  Background color:
+  primary | secondary | success | danger | warning | info | light | dark
+#}
+
+{# Close button: true | false #}
+
+{{ box('Text...') }}
+{{ box('Text...', 'primary') }}
+{{ box('Text...', 'secondary', true) }}
+{{ box('Text...', 'success', true, 'm-2 p-2 shadow') }}
+
+</code>
+</pre>
+
+<pre class="text-start">
+Language list
+<code class="language-twig">
+{{ language_list() }}
+
+</code>
+</pre>
+
+<pre class="text-start">
+HTML meta tag - (Merges the data from the "config/meta.ini" file with your array of meta tags.)
+<code class="language-twig">
+&lt;!DOCTYPE html>
+{% set meta = html_meta_tag({title: 'Sciola'}) %}
+&lt;html>
+  &lt;head>
+    &lt;meta name="title" content="{{ meta.title }}">
+  &lt;/head>
+...
+&lt;/html>
+
+</code>
+</pre>
+
+<pre class="text-start">
+Copyright footer text
+<code class="language-twig">
+{{ copyright('now'|date('Y')) }}
+
+</code>
+</pre>
+
+<pre class="text-start">
+.md file interpreter
+<code class="language-twig">
+{{ parsedown('/path/to/file.md')|raw }}
+
+</code>
+</pre>
+
+<pre class="text-start">
+Set session
+<code class="language-twig">
+{{ session('key', 'value') }}
+
+</code>
+</pre>
+
+
+<pre class="text-start">
+Get session
+<code class="language-twig">
+{{ session('key') }}
+or
+{{ session.key }}
+
+</code>
+</pre>
+
+<pre class="text-start">
+Text translation
+<code class="language-twig">
+{{ translate('Text...') }}
+
+</code>
+</pre>
+
+<pre class="text-start">
+Page redirect
+<code class="language-twig">
+{{ redirect('url') }}
+
+</code>
+</pre>
+
+<pre class="text-start">
+Previous date
+<code class="language-twig">
+{{ previous_date() }}
+
+</code>
+</pre>

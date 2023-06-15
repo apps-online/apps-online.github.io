@@ -1,0 +1,48 @@
+<div class="my-5">
+  <h1 class="fs-3">Ajax</h1>
+  <hr>
+  <a class="btn btn-primary border-0 shadow fs-5" href="javascript:history.back()">
+    <i class="fa fa-arrow-left" aria-hidden="true"></i>
+  </a>
+  <a class="btn btn-primary border-0 shadow fs-5" href="/doc">
+    <i class="fa fa-home" aria-hidden="true"></i>
+  </a>
+</div>
+
+<p class="text-start">Assign ajax via class attribute.</p>
+
+<pre class="text-start">
+<code class="language-html">
+&lt;a class="ajax" href="/route">Link&lt;/a>
+</code>
+</pre>
+
+<pre class="text-start">
+<code class="language-html">
+&lt;a class="ajax" href="/alias/route" data-ajax-href="/real/route">Link&lt;/a>
+</code>
+</pre>
+
+<pre class="text-start">
+<code class="language-html">
+&lt;form class="ajax" action="/route">
+
+&lt;/form>
+</code>
+</pre>
+
+<pre class="text-start">
+<code class="language-javascript">
+&lt;script>
+function my_function(error, response) {
+    if (!error) {
+        console.log(response.data);
+    }
+}
+&lt;/script>
+
+&lt;form class="ajax" action="/route" data-ajax-return="my_function">
+
+&lt;/form>
+</code>
+</pre>
