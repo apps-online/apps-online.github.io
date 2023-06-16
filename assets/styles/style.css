@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  text-align: center;
+  font-family: sans-serif, sans;
+}
+
+header {
+  margin: 3px;
+}
+
+main {
+  margin: 0;
+  padding: 0;
+  background-color: #162d50;
+}
+
+footer {
+  margin-top: 30px;
+}
+
+footer p {
+  margin: 15px;
+  font-size: 14px;
+}
+
+footer a {
+  margin: 0 5px 0 5px;
+}
+
+hr {
+  border: dashed 1px #9a9996;
+  width: 80%;
+}
