@@ -17,7 +17,7 @@ Examples:
 <code class="language-php">
 &lt;?php
 
-use Sciola\Route;
+use Framework\Route;
 
 Route::add('/', function () {
     controller('MyController')->myMethod();
@@ -85,6 +85,4 @@ Route::add('/my-route/(.*)/(.*)/(.*)/(.*)', function ($n1, $n2, $n3, $n4) {
   <p class="m-0 p-0">- You can create multiple route files as per your application's organizational structure.</p>
   <p class="m-0 p-0">- To view formatted data use the function: <strong>print_f();</strong> instead of <strong>print_r();</strong></p>
 </div>
-<a class="fs-5 mt-5" href="https://github.com/sciola-framework/module.auth/blob/main/README.md#lock-authenticated-route">
-  <i class="fa-solid fa-lock me-2"></i>Authenticated Route
-</a>&nbsp;&nbsp;&nbsp;Requirement: <a href="https://github.com/sciola-framework/sciola.auth">@sciola/auth</a>
+<i class="fa-solid fa-lock me-2"></i>Authenticated Route
