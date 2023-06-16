@@ -1,10 +1,7 @@
 var route = {
   "/docs/php-framework" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/home.html",
   "/docs/php-framework/#file-md" : "https://api.github.com/repos/Leandro-Sciola/leandro-sciola.github.io/contents/framework/file.md",
-  "/docs/php-framework/#requirements" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/requirements.html",
-  "/docs/php-framework/#installation" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/installation.html",
   "/docs/php-framework/#config" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/directory_structure/config.html",
-  "/docs/php-framework/#database" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/directory_structure/database.html",
   "/docs/php-framework/#languages" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/directory_structure/languages.html",
   "/docs/php-framework/#layers" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/directory_structure/layers.html",
   "/docs/php-framework/#libraries" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/directory_structure/libraries.html",
