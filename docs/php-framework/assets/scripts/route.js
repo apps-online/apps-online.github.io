@@ -1,5 +1,5 @@
 var route = {
-  "/php-framework" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/index.html",
+  "/php-framework" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/home.html",
   "/php-framework/#file-md" : "https://api.github.com/repos/Leandro-Sciola/leandro-sciola.github.io/contents/framework/file.md",
   "/php-framework/#requirements" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/requirements.html",
   "/php-framework/#installation" : "https://raw.githubusercontent.com/Leandro-Sciola/leandro-sciola.github.io/main/docs/php-framework/installation.html",
