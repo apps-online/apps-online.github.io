@@ -4,7 +4,7 @@
   <a class="btn btn-primary border-0 shadow fs-5" href="javascript:history.back()">
     <i class="fa fa-arrow-left" aria-hidden="true"></i>
   </a>
-  <a class="btn btn-primary border-0 shadow fs-5" href="/doc">
+  <a class="btn btn-primary border-0 shadow fs-5" href="/docs/php-framework">
     <i class="fa fa-home" aria-hidden="true"></i>
   </a>
 </div>
@@ -15,7 +15,7 @@ Filter:
 
 &lt;?php
 
-use Sciola\Template;
+use Framework\Template;
 
 Template::twigFilter('your_filter', function ($data) {
     return 'Your code...';
@@ -34,7 +34,7 @@ Function:
 
 &lt;?php
 
-use Sciola\Template;
+use Framework\Template;
 
 Template::twigFunction('your_function', function ($data) {
     return 'Your code...';
@@ -58,7 +58,7 @@ File: libraries/<strong>TwigFilter.php</strong>
  */
 namespace App\Lib;
 
-use Sciola\Template;
+use Framework\Template;
 
 class TwigFilter
 {
@@ -103,7 +103,7 @@ File: libraries/<strong>TwigFunction.php</strong>
  */
 namespace App\Lib;
 
-use Sciola\Template;
+use Framework\Template;
 
 class TwigFunction
 {
