@@ -53,3 +53,6 @@
 * [Base64 Guru](https://base64.guru)
 * [AwesomeAPI](https://docs.awesomeapi.com.br)
 * [Grafana](https://grafana.com)
+* [Total.js](https://www.totaljs.com)
+* [Reqres](https://reqres.in)
+* [Postman](https://www.postman.com)
