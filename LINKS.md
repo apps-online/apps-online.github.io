@@ -2,7 +2,7 @@
 
 ## Google Drive
 
-* [Músicas](https://drive.google.com/drive/folders/1qsoqgk-_gCRtxT1eYsnsRTTDtH2zQrI1)
+* [Public](https://drive.google.com/drive/folders/1u42qofr10Ne9pRWsL-qbsStsqh6yuYHG)
 
 ## Multimedia
 
