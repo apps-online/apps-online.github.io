@@ -2,10 +2,7 @@
 
 ## Google Drive
 
-* [Teoria Musical](https://drive.google.com/drive/folders/1dhmEBhjeRS618RMe5HaEYdZzKde4lpxf)
 * [Músicas](https://drive.google.com/drive/folders/1qsoqgk-_gCRtxT1eYsnsRTTDtH2zQrI1)
-* [Sound Fonts](https://drive.google.com/drive/folders/1Q4date33ryY5Mm8w3RcI-6PIInI4DmV4)
-* [Manuais](https://drive.google.com/drive/folders/12tEjVlkInkCoZT8S1ukytCX-Ra5NmYNe)
 
 ## Multimedia
 
