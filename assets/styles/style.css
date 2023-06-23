@@ -3,7 +3,7 @@ body {
   padding: 0;
   background-color: #fff;
   text-align: center;
-  font-family: 'Roboto', sans-serif, sans;
+  font-family: sans-serif, sans;
 }
 
 header {
@@ -13,7 +13,6 @@ header {
 main {
   margin: 0;
   padding: 0;
-  background-color: #162d50;
 }
 
 footer {
