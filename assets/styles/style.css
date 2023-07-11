@@ -9,9 +9,14 @@ body {
 header {
   margin: 0;
   padding: 0;
-  padding-top: 400px;
+  padding-top: 100px;
   background-image: url('/assets/images/banners/mixer.jpg');
   height: 600px;
+}
+
+header img {
+  width: 260px;
+  height: 260px;
 }
 
 main {
