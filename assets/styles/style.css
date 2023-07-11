@@ -7,7 +7,8 @@ body {
 }
 
 header {
-  margin: 3px;
+  margin: 0;
+  padding: 0;
   background-image: url('/assets/images/banners/mixer.jpg');
   height: 600px;
 }
@@ -24,6 +25,18 @@ footer {
 footer p {
   margin: 15px;
   font-size: 14px;
+}
+
+h3 {
+  background: rgba(100, 0, 0, .7);
+  padding: 100px;
+  margin: 0;
+  border-top: 1px solid #ffffff;
+  border-bottom: 1px solid #ffffff;
+  color: #ffffff;
+  width: 100%;
+  font-weight: normal;
+  font-size: 16px;
 }
 
 .bg-img-dot {
