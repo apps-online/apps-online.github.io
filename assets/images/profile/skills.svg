@@ -16,7 +16,6 @@
       width: auto;
       height: 1500px;
       background: #0b0b0b;
-      border-radius: 5px;
       color: #bbbbbb;
       text-align: center;
     }

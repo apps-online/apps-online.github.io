@@ -18,7 +18,7 @@
 					align-items: center;
 					justify-content: center;
 					margin: 0;
-					padding: 20px;
+					padding: 0;
 					width: auto;
 					height: 560px;
 					background: #212121;
@@ -26,7 +26,6 @@
                     background-repeat: no-repeat;
                     background-attachment: fixed;
                     background-position: center;
-					border-radius: 5px;
 					color: white;
 					text-align: center;
 				}
