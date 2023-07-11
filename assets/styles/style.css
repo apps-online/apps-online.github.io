@@ -9,6 +9,7 @@ body {
 header {
   margin: 3px;
   background-image: url('/assets/images/banners/mixer.jpg');
+  height: 600px;
 }
 
 main {
