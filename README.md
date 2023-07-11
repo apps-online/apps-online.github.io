@@ -1,3 +1,3 @@
 # leandro-sciola.github.io
 
-Website for hosting documentation and demos.
+Site for hosting open source project demos and personal presentations.
