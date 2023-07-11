@@ -15,7 +15,7 @@
       padding: 0;
       width: auto;
       height: 1500px;
-      background: #162d50;
+      background: #212121;
       border-radius: 5px;
       color: white;
       text-align: center;
