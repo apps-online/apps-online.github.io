@@ -15,9 +15,9 @@
       padding: 0;
       width: auto;
       height: 1500px;
-      background: #212121;
+      background: #121212;
       border-radius: 5px;
-      color: white;
+      color: #bbbbbb;
       text-align: center;
     }
     p {
