@@ -9,7 +9,7 @@ body {
 header {
   margin: 0;
   padding: 0;
-  padding-top: 100px;
+  padding-top: 80px;
   background-image: url('/assets/images/banners/mixer.jpg');
   height: 600px;
 }
