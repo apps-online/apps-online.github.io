@@ -9,8 +9,9 @@ body {
 header {
   margin: 0;
   padding: 0;
+  padding-top: 250px;
   background-image: url('/assets/images/banners/mixer.jpg');
-  height: 600px;
+  height: 350px;
 }
 
 main {
@@ -29,7 +30,7 @@ footer p {
 
 h3 {
   padding: 50px;
-  margin: 250px;
+  margin: 0;
   background: rgba(100, 0, 0, .7);
   border-top: 1px solid #ffffff;
   border-bottom: 1px solid #ffffff;
