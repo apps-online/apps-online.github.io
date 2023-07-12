@@ -91,9 +91,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25172265"
+     inkscape:zoom="0.79104825"
      inkscape:cx="959.99998"
-     inkscape:cy="529.67696"
+     inkscape:cy="529.6769"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -117,7 +117,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -125,12 +125,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(149.80785,127.89707)">
+     transform="translate(569.84329,198.72391)">
     <g
-       id="g59">
+       id="g932"
+       transform="translate(-420.03544,-70.826855)">
       <path
          id="rect76"
-         style="fill:#1a1a1a;stroke:none;stroke-width:2.39359"
+         style="fill:#0b0b0b;fill-opacity:1;stroke:none;stroke-width:2.39359"
          d="M -149.80757,-127.89706 V 45.49574 C 53.772057,19.258948 176.03438,123.22941 358.19087,91.447112 V -127.89706 Z" />
       <path
          id="path280"
@@ -156,7 +157,7 @@
          aria-label="Leandro Sciola"
          id="text144"
          style="font-style:normal;font-weight:normal;font-size:6.87562px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.171891"
-         transform="matrix(4.5057682,0,0,4.5057682,-829.94613,-375.82027)">
+         transform="matrix(4.5057682,0,0,4.5057682,-811.95435,-406.51213)">
         <path
            d="m 206.7844,75.801994 q 0.055,0 0.0963,0.04125 0.0412,0.04125 0.0412,0.09626 0,0.06188 -0.0412,0.103135 -0.0413,0.03438 -0.0963,0.03438 h -2.52335 q -0.0619,0 -0.10314,-0.04125 -0.0344,-0.04125 -0.0344,-0.09626 V 71.4016 q 0,-0.055 0.0413,-0.09626 0.0412,-0.04125 0.10313,-0.04125 0.0619,0 0.10314,0.04125 0.0412,0.04125 0.0412,0.09626 v 4.400397 z"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Quicksand Light';-inkscape-font-specification:'Quicksand Light, ';fill:#ffffff;stroke-width:0.171891"
