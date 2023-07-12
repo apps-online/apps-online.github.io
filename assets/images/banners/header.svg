@@ -8,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="112.74437mm"
-   height="62.206345mm"
-   viewBox="0 0 112.74437 62.206345"
+   width="508mm"
+   height="280.28738mm"
+   viewBox="0 0 508 280.28739"
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="desenhando.svg">
+   sodipodi:docname="header.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -88,9 +88,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.56428"
-     inkscape:cx="213.06023"
-     inkscape:cy="117.5553"
+     inkscape:zoom="0.79104823"
+     inkscape:cx="959.99998"
+     inkscape:cy="529.67693"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -121,9 +121,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-150.94835,-55.023514)">
+     transform="translate(149.80785,127.89707)">
     <g
-       id="g335">
+       id="g335"
+       transform="matrix(4.5057682,0,0,4.5057682,-829.94613,-375.82027)">
       <path
          id="path280"
          style="fill:#ffffff;stroke:none;stroke-width:0.531228"
