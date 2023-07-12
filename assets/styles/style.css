@@ -12,11 +12,6 @@ header {
   background-color: #0b0b0b;
 }
 
-header .profile {
-  width: 180px;
-  height: 180px;
-}
-
 main {
   margin: 0;
   padding: 0;
@@ -34,11 +29,16 @@ footer p {
 h3 {
   padding: 50px;
   margin: 0;
-  padding-top: 50px;
   color: #ffffff;
   width: 100%;
   font-weight: normal;
   font-size: 16px;
+}
+
+.profile {
+  padding-top: 50px;
+  width: 180px;
+  height: 180px;
 }
 
 .bg-img-dot {
