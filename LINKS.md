@@ -7,9 +7,13 @@
 ## Audio / Video / Image
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openclipart.org&size=16"> [Openclipart - Leandro Sciola](https://openclipart.org/artist/leandrosciola)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://video-converter.com&size=16"> [Online Video Converter - Convert Video to MP4, AVI, MPEG, FLV, 3GP, MKV, h264 or h265](https://video-converter.com/pt)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://casesandberg.github.io&size=16"> [A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more](https://casesandberg.github.io/react-color)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vocalremover.org&size=16"> [Vocal Remover and Isolation.](https://vocalremover.org)
+
 * [Vocal Remover.](https://moises.ai)
 * [Spokesperson Video - Text to Video.](https://www.movio.la)
 * [Fully Open-sourced Online MIDI Editor.](https://signal.vercel.app/edit)
@@ -45,7 +49,6 @@
 * [Online string tools is a collection of useful string manipulation utilities](https://onlinestringtools.com)
 * [Managed Cloud Hosting Platform Simplified](https://www.cloudways.com/en)
 * [JSON API for testing](https://api.chucknorris.io/jokes/random)
-* [OctaPHP](https://synestergates788.github.io/octaphp.github.io/index.html)
 * [Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs](https://mermaid-js.github.io)
 * [quagga2 - An advanced barcode-scanner written in Javascript](https://github.com/ericblade/quagga2)
 * [Banking as a Service. Brazil](https://bankly.com.br)
