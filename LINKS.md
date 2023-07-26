@@ -89,9 +89,6 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://developers.google.com/speed/pagespeed/insights&size=16">
 [Google tool to measure the performance of a website](https://developers.google.com/speed/pagespeed/insights)
 
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://draggable-html-elements.glitch.me&size=16">
-[Draggable/Movable HTML elements demo page](https://draggable-html-elements.glitch.me)
-
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.browserstack.com&size=16">
 [Give your users a seamless experience by testing on 3000+ real devices and browsers](https://www.browserstack.com)
 
@@ -121,9 +118,6 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com/ericblade/quagga2&size=16">
 [quagga2 - An advanced barcode-scanner written in Javascript](https://github.com/ericblade/quagga2)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bankly.com.br&size=16">
-[Banking as a Service. Brazil](https://bankly.com.br)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://base64.guru&size=16">
 [Base64 Guru](https://base64.guru)
