@@ -2,7 +2,7 @@
 
 ## Google Drive
 
-* [Public](https://drive.google.com/drive/folders/1u42qofr10Ne9pRWsL-qbsStsqh6yuYHG)
+<a href="https://drive.google.com/drive/folders/1u42qofr10Ne9pRWsL-qbsStsqh6yuYHG"><img src="/assets/images/icons/folder.svg"></a>
 
 ## Audio / Video / Image
 
