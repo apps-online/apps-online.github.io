@@ -6,7 +6,7 @@
 
 ## Audio / Video / Image
 
-* [Openclipart - Leandro Sciola](https://openclipart.org/artist/leandrosciola)
+* <img src="www.google.com/s2/favicons?domain=openclipart.org"> [Openclipart - Leandro Sciola](https://openclipart.org/artist/leandrosciola)
 * [Online Video Converter - Convert Video to MP4, AVI, MPEG, FLV, 3GP, MKV, h264 or h265](https://video-converter.com/pt)
 * [A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more](https://casesandberg.github.io/react-color)
 * [Vocal Remover and Isolation.](https://vocalremover.org)
