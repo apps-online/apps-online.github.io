@@ -116,9 +116,6 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://api.chucknorris.io/jokes/random&size=16">
 [JSON API for testing](https://api.chucknorris.io/jokes/random)
 
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://synestergates788.github.io/octaphp.github.io/index.html&size=16">
-[OctaPHP](https://synestergates788.github.io/octaphp.github.io/index.html)
-
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mermaid-js.github.io&size=16">
 [Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs](https://mermaid-js.github.io)
 
