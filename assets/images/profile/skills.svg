@@ -15,7 +15,7 @@
       padding: 0;
       width: auto;
       height: 1500px;
-      background: #0d1117;
+      background: #0b0b0b;
       color: #bbbbbb;
       text-align: center;
     }
