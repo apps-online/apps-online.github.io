@@ -92,7 +92,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.46525631"
-     inkscape:cx="1241.7617"
+     inkscape:cx="1280.4501"
      inkscape:cy="316.961"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -128,9 +128,16 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(596.64328,144.31798)">
+    <rect
+       style="fill:#ff0000;stroke:#444c56;stroke-width:0.15875"
+       id="rect29"
+       width="780.1781"
+       height="321.23367"
+       x="-633.74176"
+       y="-171.62602" />
     <g
        id="g897"
-       transform="matrix(1.0012105,0,0,1.0012105,0.31227835,0.01816444)">
+       transform="matrix(1.0035534,0,0,1.0035534,0.91669176,0.05332249)">
       <path
          id="rect76"
          style="fill:#0d1117;fill-opacity:1;stroke:none;stroke-width:2.61979"
