@@ -11,6 +11,10 @@ body {
   font-family: sans-serif, sans;
 }
 
+.bg-normal {
+  background-color: #dbdbe3;
+}
+
 .bg-master {
   background-color: #0d1117;
 }
@@ -20,8 +24,6 @@ body {
 }
 
 .profile {
-  margin-top: 50px;
-  margin-bottom: 50px;
   width: 200px;
   height: 200px;
 }

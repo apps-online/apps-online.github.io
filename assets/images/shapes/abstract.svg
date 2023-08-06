@@ -91,9 +91,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.43524332"
-     inkscape:cx="1583.0015"
-     inkscape:cy="549.95711"
+     inkscape:zoom="0.66964981"
+     inkscape:cx="1280"
+     inkscape:cy="488.7374"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -129,14 +129,14 @@
      id="layer1"
      transform="translate(596.64328,144.31798)">
     <g
-       id="g69">
+       id="g861">
       <path
          id="rect76"
          style="fill:#0d1117;fill-opacity:1;stroke:none;stroke-width:2.6291"
          d="M -597.96583,-144.82311 V 11.460345 C -325.46601,-12.18756 -161.81278,81.523724 82.011279,52.877513 V -144.82311 Z" />
       <path
          id="path280"
-         style="fill:#ffffff;stroke:none;stroke-width:2.48639"
+         style="fill:#dbdbe3;stroke:none;stroke-width:2.48639;fill-opacity:1"
          d="M -597.96584,114.81069 V -24.967664 C -325.46605,-3.8172535 -12.05426,88.006667 82.011239,38.849707 v 75.960983 z"
          sodipodi:nodetypes="ccccc" />
       <path
