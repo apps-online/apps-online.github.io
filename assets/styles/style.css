@@ -1,7 +1,3 @@
-body {
-  font-family: sans-serif, sans;
-}
-
 html,
 body,
 header,
@@ -11,21 +7,16 @@ footer {
   padding: 0 !important;
 }
 
-header {
+body {
+  font-family: sans-serif, sans;
+}
+
+.bg-master {
   background-color: #0d1117;
 }
 
-footer {
+.bg-tertiary {
   background-color: #161b22;
-}
-
-h3 {
-  padding: 50px;
-  margin: 0;
-  width: 100%;
-  font-weight: normal;
-  font-size: 16px;
-  color: #bbbbbb;
 }
 
 .profile {
