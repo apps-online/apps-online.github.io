@@ -46,17 +46,11 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ndpsoftware.com/git-cheatsheet.html#loc=index;&size=16">
 [Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html#loc=index;)
 
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://developers.google.com/speed/pagespeed/insights&size=16">
-[Google tool to measure the performance of a website](https://developers.google.com/speed/pagespeed/insights)
-
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.browserstack.com&size=16">
 [Give your users a seamless experience by testing on 3000+ real devices and browsers](https://www.browserstack.com)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.openstack.org&size=16">
 [OpenStack is a set of software components that provide common services for cloud infrastructure](https://www.openstack.org)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://twigfiddle.com&size=16">
-[Develop, run, store and access Twig code online](https://twigfiddle.com)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com/vinceliuice/vimix-gtk-themes&size=16">
 [Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell](https://github.com/vinceliuice/vimix-gtk-themes)
@@ -67,18 +61,6 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.cloudways.com/en&size=16">
 [Managed Cloud Hosting Platform Simplified](https://www.cloudways.com/en)
 
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://api.chucknorris.io/jokes/random&size=16">
-[JSON API for testing](https://api.chucknorris.io/jokes/random)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://mermaid-js.github.io&size=16">
-[Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs](https://mermaid-js.github.io)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com/ericblade/quagga2&size=16">
-[quagga2 - An advanced barcode-scanner written in Javascript](https://github.com/ericblade/quagga2)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://base64.guru&size=16">
-[Base64 Guru](https://base64.guru)
-
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://docs.awesomeapi.com.br&size=16">
 [AwesomeAPI](https://docs.awesomeapi.com.br)
 
@@ -87,9 +69,6 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.totaljs.com&size=16">
 [Total.js](https://www.totaljs.com)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://reqres.in&size=16">
-[Reqres](https://reqres.in)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.postman.com&size=16">
 [Postman](https://www.postman.com)
