@@ -9,6 +9,9 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openclipart.org/artist/leandrosciola&size=16">
 [Openclipart - Leandro Sciola](https://openclipart.org/artist/leandrosciola)
 
+<img src="https://leandro-sciola.github.io/assets/images/favicon/favicon.ico">
+[WebAudioFont](https://leandro-sciola.github.io/apps/webaudiofont.html)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://video-converter.com/pt&size=16">
 [Online Video Converter - Convert Video to MP4, AVI, MPEG, FLV, 3GP, MKV, h264 or h265](https://video-converter.com/pt)
 
@@ -44,9 +47,6 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://playgroundai.com&size=16">
 [Playground AI](https://playgroundai.com)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://leandro-sciola.github.io/demo/web-audio-font/&size=16">
-[WebAudioFont](https://leandro-sciola.github.io/demo/web-audio-font/)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://youtube-dl-web.vercel.app&size=16">
 [Youtube-dl-web](https://youtube-dl-web.vercel.app)
