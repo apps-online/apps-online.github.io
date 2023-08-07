@@ -9,14 +9,8 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openclipart.org/artist/leandrosciola&size=16">
 [Openclipart - Leandro Sciola](https://openclipart.org/artist/leandrosciola)
 
-<img src="https://leandro-sciola.github.io/assets/images/favicon/favicon.ico">
-[WebAudioFont](https://leandro-sciola.github.io/apps/webaudiofont.html)
-
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://video-converter.com/pt&size=16">
 [Online Video Converter - Convert Video to MP4, AVI, MPEG, FLV, 3GP, MKV, h264 or h265](https://video-converter.com/pt)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://casesandberg.github.io/react-color&size=16">
-[A Collection of Color Pickers from Sketch, Photoshop, Chrome, Github, Twitter, Material Design & more](https://casesandberg.github.io/react-color)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vocalremover.org&size=16">
 [Vocal Remover and Isolation.](https://vocalremover.org)
@@ -26,9 +20,6 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.movio.la&size=16">
 [Spokesperson Video - Text to Video.](https://www.movio.la)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://signal.vercel.app/edit&size=16">
-[Fully Open-sourced Online MIDI Editor.](https://signal.vercel.app/edit)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://patternsketch.com&size=16">
 [Drum Machine and Sequencer.](https://patternsketch.com)
@@ -41,9 +32,6 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://addpipe.com/simple-web-audio-recorder-demo&size=16">
 [Audio Recording Demo With WebAudioRecorder.js.](https://addpipe.com/simple-web-audio-recorder-demo)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://svgedit.netlify.app/editor/index.html&size=16">
-[SVG Edit](https://svgedit.netlify.app/editor/index.html)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://playgroundai.com&size=16">
 [Playground AI](https://playgroundai.com)
