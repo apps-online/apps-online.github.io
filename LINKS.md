@@ -15,9 +15,6 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vocalremover.org&size=16">
 [Vocal Remover and Isolation.](https://vocalremover.org)
 
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://moises.ai&size=16">
-[Vocal Remover.](https://moises.ai)
-
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.movio.la&size=16">
 [Spokesperson Video - Text to Video.](https://www.movio.la)
 
@@ -91,9 +88,6 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com/vinceliuice/vimix-icon-theme&size=16">
 [A Material Design icon theme](https://github.com/vinceliuice/vimix-icon-theme)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://onlinestringtools.com&size=16">
-[Online string tools is a collection of useful string manipulation utilities](https://onlinestringtools.com)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.cloudways.com/en&size=16">
 [Managed Cloud Hosting Platform Simplified](https://www.cloudways.com/en)
