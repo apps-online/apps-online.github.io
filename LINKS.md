@@ -1,34 +1,11 @@
-# LINKS
-
 ## Google Drive
 
 <a href="https://drive.google.com/drive/folders/1u42qofr10Ne9pRWsL-qbsStsqh6yuYHG"><img src="/assets/images/icons/folder.svg"></a>
 
-## Audio / Video / Image
+## LINKS
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openclipart.org/artist/leandrosciola&size=16">
 [Openclipart - Leandro Sciola](https://openclipart.org/artist/leandrosciola)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://video-converter.com/pt&size=16">
-[Online Video Converter - Convert Video to MP4, AVI, MPEG, FLV, 3GP, MKV, h264 or h265](https://video-converter.com/pt)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vocalremover.org&size=16">
-[Vocal Remover and Isolation.](https://vocalremover.org)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.movio.la&size=16">
-[Spokesperson Video - Text to Video.](https://www.movio.la)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://patternsketch.com&size=16">
-[Drum Machine and Sequencer.](https://patternsketch.com)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://plypp-beta.netlify.app&size=16">
-[Open SF2 file.](https://plypp-beta.netlify.app)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.webrtc-experiment.com/RecordRTC&size=16">
-[Audio+Video+Screen Recording using RecordRTC.](https://www.webrtc-experiment.com/RecordRTC)
-
-<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://addpipe.com/simple-web-audio-recorder-demo&size=16">
-[Audio Recording Demo With WebAudioRecorder.js.](https://addpipe.com/simple-web-audio-recorder-demo)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://playgroundai.com&size=16">
 [Playground AI](https://playgroundai.com)
@@ -44,8 +21,6 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.wallpaperflare.com&size=16">
 [Wallpaper Flare](https://www.wallpaperflare.com)
-
-## Technology
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://unofficial-builds.nodejs.org/download/release&size=16">
 [Node.js Unofficial Builds Project](https://unofficial-builds.nodejs.org/download/release)
