@@ -72,3 +72,9 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.postman.com&size=16">
 [Postman](https://www.postman.com)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://parceljs.org&size=16">
+[Parcel](https://parceljs.org)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hybrids.js.org&size=16">
+[hybrids](https://hybrids.js.org)
