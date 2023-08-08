@@ -78,3 +78,15 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://hybrids.js.org&size=16">
 [hybrids](https://hybrids.js.org)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://fastapi.tiangolo.com/pt/&size=16">
+[FastAPI](https://fastapi.tiangolo.com/pt/)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rapidapi.com&size=16">
+[RapidAPI](https://rapidapi.com)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.openapis.org&size=16">
+[OpenAPI](https://www.openapis.org)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.openapihub.com&size=16">
+[OpenAPIHub](https://www.openapihub.com)
