@@ -60,7 +60,7 @@
         <li><h3>Database</h3></li>
         <li>MariaDB/MySQL<br />MongoDB<br />PostgreSQL<br />SQLite</li>
         <li><h3>Frameworks and Libraries</h3></li>
-        <li>Symfony<br />Bootstrap<br />Jquery</li>
+        <li>Fastify<br />Bootstrap<br />Jquery</li>
         <li><h3>Agile Methodologies</h3></li>
         <li>Kanban<br />Scrum</li>
         <li><h3>Paradigms, Patterns and Techniques</h3></li>
