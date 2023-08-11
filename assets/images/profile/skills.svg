@@ -43,12 +43,12 @@
       <ul>
         <li><h3>Programming Languages</h3></li>
         <li>JavaScript<br />PHP</li>
-        <li><h3>Templates Engines</h3></li>
-        <li>EJS<br />Twig</li>
         <li><h3>Markup Languages</h3></li>
         <li>HTML<br />XML<br />YAML<br />Markdown</li>
         <li><h3>Formatting Languages</h3></li>
         <li>CSS<br />SCSS</li>
+        <li><h3>Templates Engines</h3></li>
+        <li>EJS<br />Twig</li>
         <li><h3>Development Tools</h3></li>
         <li>Gedit<br />Git</li>
         <li><h3>Image Applications</h3></li>
