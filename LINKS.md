@@ -97,3 +97,19 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://codeguide.co&size=16">
 [Code Guide - Standards for developing consistent, flexible, and sustainable HTML and CSS.](https://codeguide.co)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zapier.com&size=16">
+[Zapier](https://zapier.com)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://noembed.com&size=16">
+[Noembed](https://noembed.com)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://embed.ly&size=16">
+[embed.ly](https://embed.ly)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://bootstrapstudio.io&size=16">
+[Bootstrap Studio](https://bootstrapstudio.io)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ifttt.com&size=16">
+[IFTTT](https://ifttt.com)
+
