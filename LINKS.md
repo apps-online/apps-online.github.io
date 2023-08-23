@@ -90,3 +90,6 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.openapihub.com&size=16">
 [OpenAPIHub](https://www.openapihub.com)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://codeguide.co&size=16">
+[Code Guide - Standards for developing consistent, flexible, and sustainable HTML and CSS.](https://codeguide.co)
