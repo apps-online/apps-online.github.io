@@ -4,7 +4,7 @@
 
 ## GitHub - Gist
 
-[https://gist.github.com/Leandro-Sciola](https://gist.github.com/Leandro-Sciola)
+<a href="https://gist.github.com/Leandro-Sciola"><img src="/assets/images/icons/gist.svg"></a>
 
 ## LINKS
 
