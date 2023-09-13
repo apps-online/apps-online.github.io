@@ -14,6 +14,9 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://playgroundai.com&size=16">
 [Playground AI](https://playgroundai.com)
 
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://leonardo.ai&size=16">
+[Leonardo AI](https://leonardo.ai)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://youtube-dl-web.vercel.app&size=16">
 [Youtube-dl-web](https://youtube-dl-web.vercel.app)
 
