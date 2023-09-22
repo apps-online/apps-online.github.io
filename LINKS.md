@@ -1,12 +1,14 @@
-## Google Drive
+# LINKS
+
+### Google Drive
 
 <a href="https://drive.google.com/drive/folders/1u42qofr10Ne9pRWsL-qbsStsqh6yuYHG"><img src="/assets/images/icons/folder.svg"></a>
 
-## GitHub - Gist
+### GitHub - Gist
 
 <a href="https://gist.github.com/Leandro-Sciola"><img src="/assets/images/icons/gist.svg"></a>
 
-## LINKS
+### Sites
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://openclipart.org/artist/leandrosciola&size=16">
 [Openclipart - Leandro Sciola](https://openclipart.org/artist/leandrosciola)
