@@ -109,6 +109,9 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zapier.com&size=16">
 [Zapier](https://zapier.com)
 
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.pabbly.com/connect&size=16">
+[Pabbly](https://www.pabbly.com/connect)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://noembed.com&size=16">
 [Noembed](https://noembed.com)
 
