@@ -121,3 +121,8 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ifttt.com&size=16">
 [IFTTT](https://ifttt.com)
 
+### API Docs
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://developers.facebook.com/docs&size=16">
+[Facebook](https://developers.facebook.com/docs)
+
