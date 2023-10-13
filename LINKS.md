@@ -106,8 +106,14 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://codeguide.co&size=16">
 [Code Guide - Standards for developing consistent, flexible, and sustainable HTML and CSS.](https://codeguide.co)
 
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://uptimerobot.com&size=16">
+[UptimeRobot](https://uptimerobot.com)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://zapier.com&size=16">
 [Zapier](https://zapier.com)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pluga.co&size=16">
+[Pluga](https://pluga.co)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.pabbly.com/connect&size=16">
 [Pabbly](https://www.pabbly.com/connect)
