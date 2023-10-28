@@ -112,6 +112,9 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pluga.co&size=16">
 [Pluga](https://pluga.co)
 
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apiway.ai&size=16">
+[Apiway](https://apiway.ai)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.pabbly.com/connect&size=16">
 [Pabbly](https://www.pabbly.com/connect)
 
