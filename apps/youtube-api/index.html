@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>YouTube - API</title>
+    <style>
+    body {
+      background-color: #262626;
+      text-align: center;
+    }
+    h1 {
+      color: white;
+    }
+    input {
+      padding: 10px;
+      font-size: 14pt;
+    }
+    </style>
+  </head>
+  <body>
+    <h1>YouTube - API</h1>
+    <form action="https://youtube-dl-web.vercel.app/api/info" method="GET">
+      <input type="text" placeholder="https://www.youtube.com/watch?v=..." name="q" value="" size="80">
+      <input type="submit" value="Get JSON file">
+    </form>
+  </body>
+</html>
