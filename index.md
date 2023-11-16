@@ -2,11 +2,11 @@
 
 ### Google Drive
 
-<a href="https://drive.google.com/drive/folders/1u42qofr10Ne9pRWsL-qbsStsqh6yuYHG"><img src="/assets/images/icons/folder.svg"></a>
+<a href="https://drive.google.com/drive/folders/1u42qofr10Ne9pRWsL-qbsStsqh6yuYHG"><img src="/icons/folder.svg"></a>
 
 ### GitHub - Gist
 
-<a href="https://gist.github.com/Leandro-Sciola"><img src="/assets/images/icons/gist.svg"></a>
+<a href="https://gist.github.com/Leandro-Sciola"><img src="/icons/gist.svg"></a>
 
 ### Sites
 
