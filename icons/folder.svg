@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!--part of the matt icon theme by sixsixfive released under CC0 (https://creativecommons.org/publicdomain/zero/1.0/) on openclipart-->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 80 80"
+   viewBox="0 0 72.694191 49.664909"
    version="1.1"
    id="svg72"
    sodipodi:docname="folder.svg"
-   width="80"
-   height="80"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   width="72.694191"
+   height="49.664909"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <metadata
      id="metadata76">
     <rdf:RDF>
@@ -25,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,20 +37,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-height="1029"
      id="namedview74"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="7.4422989"
-     inkscape:cx="-7.4481222"
-     inkscape:cy="40"
+     inkscape:zoom="7.4069435"
+     inkscape:cx="48.331"
+     inkscape:cy="34.75065"
      inkscape:window-x="0"
-     inkscape:window-y="33"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg72" />
+     inkscape:current-layer="svg72"
+     inkscape:document-rotation="0" />
   <defs
      id="0">
     <linearGradient
@@ -346,20 +345,20 @@
        y2="15.219" />
   </defs>
   <rect
-     style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10.47115898;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.87478;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect881"
-     width="80"
-     height="80"
-     x="-3.0371095e-07"
-     y="-1.9775391e-07" />
+     width="60.163612"
+     height="60.163612"
+     x="6.2652879"
+     y="-5.2493501" />
   <g
      id="g895"
-     transform="matrix(0.64088868,0,0,0.64088868,-1.0633028,-0.12975895)">
+     transform="matrix(0.48197722,0,0,0.48197722,5.4656364,-5.3469347)">
     <path
        transform="matrix(1.1470588,0,0,1,-10.715034,-0.7429983)"
        d="m 128.29104,106.70071 a 63.154858,3.7149916 0 1 1 -126.3097129,0 63.154858,3.7149916 0 1 1 126.3097129,0 z"
        id="1"
-       style="opacity:0.54100001;fill:url(#M);stroke-width:1.949;stroke-linecap:round;stroke-linejoin:bevel;filter:url(#O)"
+       style="opacity:0.541;fill:url(#M);stroke-width:1.949;stroke-linecap:round;stroke-linejoin:bevel;filter:url(#O)"
        inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.9652278,0,0,0.9652278,2.9590038,0.385754)"
@@ -381,7 +380,7 @@
        transform="matrix(0.9652278,0,0,1.3063538,2.9590038,-9.6164018)"
        id="5"
        d="M 122.21875,25.687905 6.375,25.711212 v 3.338334 c 6e-7,0.148649 2.7991985,0.271454 6.1875,0.271454 H 116.375 c 3.3883,0 6.21875,-0.121799 6.21875,-0.271454 v -3.338334 c 0,-0.0075 -0.0174,-0.0146 -0.0313,-0.02194 -0.11616,-3.06e-4 -0.22602,-0.0014 -0.34375,-0.0014 z"
-       style="opacity:0.42900002;fill:url(#I);stroke-width:1.949;stroke-linecap:round;stroke-linejoin:bevel;filter:url(#H)"
+       style="opacity:0.429;fill:url(#I);stroke-width:1.949;stroke-linecap:round;stroke-linejoin:bevel;filter:url(#H)"
        inkscape:connector-curvature="0" />
     <path
        transform="matrix(0.9652278,0,0,0.9652278,2.9590038,0.385754)"
