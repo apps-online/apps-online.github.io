@@ -1,5 +1,6 @@
 name: ""
 title: null
+favicon: /icons/favicon.ico
 relative_links:
   enabled: true
   collections: true
