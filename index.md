@@ -8,14 +8,13 @@
 
 <a href="https://drive.google.com/drive/folders/1u42qofr10Ne9pRWsL-qbsStsqh6yuYHG"><img src="/icons/folder.svg"></a>
 
-### GitHub - Gist
-
-<a href="https://gist.github.com/Leandro-Sciola"><img src="/icons/gist.svg"></a>
-
 ### Sites
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com&size=16">
 [GitHub - Leandro Sciola](https://github.com/Leandro-Sciola)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com&size=16">
+[GitHub | Gist - Leandro Sciola](https://gist.github.com/Leandro-Sciola)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://playgroundai.com&size=16">
 [Playground AI](https://playgroundai.com)
