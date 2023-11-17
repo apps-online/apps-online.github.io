@@ -14,6 +14,9 @@
 
 ### Sites
 
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://github.com&size=16">
+[GitHub - Leandro Sciola](https://github.com/Leandro-Sciola)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://playgroundai.com&size=16">
 [Playground AI](https://playgroundai.com)
 
