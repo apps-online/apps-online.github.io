@@ -121,8 +121,23 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apiway.ai&size=16">
 [Apiway](https://apiway.ai)
 
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://apiway.firstpromoter.com&size=16">
+[Apiway - Afiliados](https://apiway.firstpromoter.com/login)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.pabbly.com/connect&size=16">
 [Pabbly](https://www.pabbly.com/connect)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://integrately.com&size=16">
+[Integrately](https://integrately.com)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://rapidomize.com&size=16">
+[Rapidomize](https://rapidomize.com)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.make.com&size=16">
+[Make - Integration)](https://www.make.com/en/white-label)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://semantix.ai&size=16">
+[Semantix - Integration Hub](https://semantix.ai/semantix-integration-hub)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://noembed.com&size=16">
 [Noembed](https://noembed.com)
@@ -135,6 +150,12 @@
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ifttt.com&size=16">
 [IFTTT](https://ifttt.com)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.datafacilinformatica.com.br&size=16">
+[Script Integraco com Cielo](https://www.datafacilinformatica.com.br/venda/script-para-integraco-com-cielo-php-cielo-ecommerce.php)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://firstpromoter.com&size=16">
+[FirstPromoter - Affiliate and referral tracking for SaaS.](https://firstpromoter.com)
 
 ### API Docs
 
