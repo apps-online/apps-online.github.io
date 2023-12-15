@@ -26,6 +26,8 @@ var link = {
     "Base64 Guru": "https://base64.guru",
     "Reqres - Test your front-end against a real API": "https://reqres.in",
     "EJS Playground": "https://ionicabizau.github.io/ejs-playground",
+    "GrapesJS": "https://grapesjs.com/demo.html",
+    "HTML Minifier": "https://kangax.github.io/html-minifier",
     "OpenAPI-GUI v3": "https://mermade.github.io/openapi-gui",
     "ChatGPT - Free": "https://chat.chatgptdemo.net"
   }
