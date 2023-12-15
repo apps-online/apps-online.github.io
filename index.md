@@ -134,7 +134,7 @@
 [Rapidomize](https://rapidomize.com)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.make.com&size=16">
-[Make - Integration)](https://www.make.com/en/white-label)
+[Make - Integration](https://www.make.com/en/white-label)
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://semantix.ai&size=16">
 [Semantix - Integration Hub](https://semantix.ai/semantix-integration-hub)
