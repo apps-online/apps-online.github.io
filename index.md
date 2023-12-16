@@ -139,6 +139,9 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://semantix.ai&size=16">
 [Semantix - Integration Hub](https://semantix.ai/semantix-integration-hub)
 
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.helena.app&size=16">
+[helena.app](https://www.helena.app)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://noembed.com&size=16">
 [Noembed](https://noembed.com)
 
