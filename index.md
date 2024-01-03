@@ -154,6 +154,15 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ifttt.com&size=16">
 [IFTTT](https://ifttt.com)
 
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://prismatic.io&size=16">
+[Prismatic - The integration platform for B2B software companies.](https://prismatic.io)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.elastic.io&size=16">
+[Elastic - Low-code iPaaS platform.](https://www.elastic.io)
+
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://syncari.com&size=16">
+[Syncari - Sync, unify, automate and visualize the systems that run your business - without code.](https://syncari.com)
+
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.datafacilinformatica.com.br&size=16">
 [Script Integraco com Cielo](https://www.datafacilinformatica.com.br/venda/script-para-integraco-com-cielo-php-cielo-ecommerce.php)
 
