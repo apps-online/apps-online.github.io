@@ -169,6 +169,9 @@
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://firstpromoter.com&size=16">
 [FirstPromoter - Affiliate and referral tracking for SaaS.](https://firstpromoter.com)
 
+<img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://n8n.io&size=16">
+[n8n - A powerful workflow automation tool.](https://n8n.io)
+
 ### API Docs
 
 <img src="https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://developers.facebook.com/docs&size=16">

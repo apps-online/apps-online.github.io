@@ -29,6 +29,7 @@ var link = {
     "GrapesJS": "https://grapesjs.com/demo.html",
     "HTML Minifier": "https://kangax.github.io/html-minifier",
     "OpenAPI-GUI v3": "https://mermade.github.io/openapi-gui",
-    "ChatGPT - Free": "https://chat.chatgptdemo.net"
+    "ChatGPT - Free": "https://chat.chatgptdemo.net",
+    "Excalidraw": "https://excalidraw.com"
   }
 };
