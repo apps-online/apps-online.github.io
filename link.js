@@ -18,6 +18,7 @@ var link = {
     "VG Edit": "https://svgedit.netlify.app/editor/index.html"
   },
   "technology": {
+    "Scalc.js - Calculator": "https://apps-online.github.io/scalc-js",
     "Google tool to measure the performance of a website": "https://developers.google.com/speed/pagespeed/insights",
     "Develop, run, store and access Twig code online": "https://twigfiddle.com",
     "JSON API for testing": "https://api.chucknorris.io",

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <title>Scalc.js - Calculator</title>
+
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+
+    <script src="dist/scalc.min.js"></script>
+    <link href="dist/scalc.min.css" rel="stylesheet">
+
+    <style>
+    body {
+      background-image: url("img/bg.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      color: white;
+      font-size: 16px;
+    }
+    pre {
+      text-align: center;
+      margin: 50px;
+    }
+    pre div {
+      display: inline-block;
+      background-color: #323232;
+      padding: 50px;
+      text-align: left;
+      -webkit-border-radius: 12px;
+      -moz-border-radius: 12px;
+      border-radius: 12px;
+    }
+    a {
+      color: yellow;
+    }
+    .logo {
+      border: 0;
+      width: 200px;
+      height: 53px;
+    }
+    </style>
+
+</head>
+<body>
+
+<div id="calculator"></div>
+
+<pre>
+  <img src="img/scalc.png" class="logo">
+  Calculator
+
+  <div>
+  <strong>Usage</strong>
+
+  &lt;script src="dist/scalc.min.js">&lt;/script&gt;
+  &lt;link href="dist/scalc.min.css" rel="stylesheet"&gt;
+
+  &lt;script&gt;scalc();&lt;/script&gt;
+
+  &lt;div id="calculator"&gt;&lt;/div&gt;
+
+  <strong>Options</strong>
+
+  &lt;script&gt;
+  scalc({
+      modal: true       // Default false
+      draggable: false  // Default true
+  });
+  &lt;/script&gt;
+
+  <a href="#" onclick="javascript:scalc(); return false">Demo - scalc();</a>
+  <a href="#" onclick="javascript:scalc({draggable: false}); return false">Demo - scalc({draggable: false});</a>
+  <a href="#" onclick="javascript:scalc({modal: true}); return false">Demo - scalc({modal: true})</a>
+  <a href="#" onclick="javascript:scalc({modal: true, draggable: false}); return false">Demo - scalc({modal: true, draggable: false})</a>
+  </div>
+</pre>
+
+</body>
+</html>

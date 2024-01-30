@@ -1,0 +1,15 @@
+{
+  "name": "scalc.js",
+  "version": "1.0.2",
+  "description": "Basic operations calculator for e-commerce or web applications.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LS-Git0/Scalc.js.git"
+  },
+  "keywords": ["calculator"],
+  "author": "LS",
+  "license": "MIT"
+}
