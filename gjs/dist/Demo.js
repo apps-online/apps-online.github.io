@@ -4,7 +4,7 @@ imports.Jgui;
 class Demo {
 
     main() {
-        Jgui.url = "https://raw.githubusercontent.com/Leandro-Sciola/apps/main/gjs/";
+        Jgui.url = "https://raw.githubusercontent.com/apps-online/apps-online.github.io/main/gjs/";
         Jgui.include("style.min.css");
         Jgui.request("piano.xml", function (response) {
             /*
