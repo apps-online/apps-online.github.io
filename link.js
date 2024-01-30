@@ -1,17 +1,17 @@
 var link = {
   "audio": {
-    "WebAudioFont": "https://leandro-sciola.github.io/apps/webaudiofont",
+    "WebAudioFont": "https://apps-online.github.io/webaudiofont",
     "MIDI Editor": "https://signal.vercel.app/edit",
     "Vocal Remover": "https://vocalremover.org",
     "Drum Machine and Sequencer": "https://patternsketch.com",
     "Open SF2 file": "https://plypp-beta.netlify.app",
     "Audio+Video+Screen Recording using RecordRTC": "https://www.webrtc-experiment.com/RecordRTC",
     "Audio Recording Demo With WebAudioRecorder.js": "https://addpipe.com/simple-web-audio-recorder-demo",
-    "Piano Chords": "https://leandro-sciola.github.io/apps/piano-chords",
-    "Keyboard | Continuous Pads": "https://leandro-sciola.github.io/apps/continuous-pads"
+    "Piano Chords": "https://apps-online.github.io/piano-chords",
+    "Keyboard | Continuous Pads": "https://apps-online.github.io/continuous-pads"
   },
   "video": {
-    "YouTube - API": "https://leandro-sciola.github.io/apps/youtube-api"
+    "YouTube - API": "https://apps-online.github.io/youtube-api"
   },
   "image": {
     "Color Pickers": "https://casesandberg.github.io/react-color",
